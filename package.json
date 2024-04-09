@@ -148,7 +148,7 @@
     "eventsource": "^2.0.2",
     "randombytes": "^2.1.0",
     "toml": "^3.0.0",
-    "typescript": "^5.3.3",
+    "typescript": "^5.4.2",
     "urijs": "^1.19.1"
   }
 }
